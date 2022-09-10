@@ -1,4 +1,4 @@
-# Projeto Curso Vue.js 3 EAD
+# AVA vue.js
 
 ## Project setup
 ```
